@@ -114,3 +114,20 @@ html {
   font-size: 19px;
   font-weight: 600;
 }
+.fun{
+  width: 100%;
+  margin-bottom: 2rem;
+}
+.gif{
+  max-width: 100%;
+}
+/*---Media Queries --*/
+@media (max-width: 400px) {
+
+  }
+@media (max-width: 400px) {
+  
+}
+@media (max-width: 400px) {
+  
+}
